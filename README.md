@@ -9,6 +9,8 @@ John Baskerville
 
 - **[Baskerville 3](https://github.com/Wobtrix/john_baskerville/john_baskerville3.html)**
 
+ **[Baskerville 3](https://github.com/Wobtrix/)**
+
 
 
 History of Type
@@ -16,7 +18,7 @@ History of Type
 - **History of Type 1**  
 
 
-- History of Type 2
+- **History of Type 2**
 
 
-- History of Type 3…
+- **History of Type 3**
