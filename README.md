@@ -20,12 +20,10 @@ John Baskerville
 - **[Baskerville Homework](https://wobtrix.github.io/john_baskerville/john_baskerville_homework.html)**
 
 
-
-
 History of Type
 ---------------
-- **[History of Type 1](https://github.com/Wobtrix/)**  
+- **[History of Type 1](https://wobtrix.github.io/john_baskerville/brief-history-of-type.html)**  
 
-- **[History of Type 2](https://github.com/Wobtrix/)**
+- **[History of Type 2](https://wobtrix.github.io/john_baskerville/brief-history-of-type2.html)**
 
-- **[History of Type 3](https://github.com/Wobtrix/)**
+- **[History of Type 3](https://wobtrix.github.io/john_baskerville/brief-history-of-type3.html)**
