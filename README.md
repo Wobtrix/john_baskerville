@@ -17,6 +17,8 @@ John Baskerville
 
 - **[Baskerville Version 7](https://wobtrix.github.io/john_baskerville/john_baskerville_version7.html)**
 
+- **[Baskerville Homework](https://wobtrix.github.io/john_baskerville/john_baskerville_homework.html)**
+
 
 
 
