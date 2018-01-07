@@ -13,7 +13,7 @@ John Baskerville
 
 - **[Baskerville Version 5](https://wobtrix.github.io/john_baskerville/john_baskerville_version5.html)**
 
-- **[Baskerville Version 6](https://wobtrix.github.io/john_baskerville/john_baskerville_version4.html)**
+- **[Baskerville Version 6](https://wobtrix.github.io/john_baskerville/john_baskerville_version6.html)**
 
 History of Type
 ---------------
