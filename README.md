@@ -27,3 +27,5 @@ History of Type
 - **[History of Type 2](https://wobtrix.github.io/john_baskerville/brief-history-of-type2.html)**
 
 - **[History of Type 3](https://wobtrix.github.io/john_baskerville/brief-history-of-type3.html)**
+
+- **[History of Type 4](https://wobtrix.github.io/john_baskerville/brief-history-of-type4.html)**
