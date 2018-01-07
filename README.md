@@ -3,7 +3,7 @@ IXD101 Interaction Design Fundamentals
 
 John Baskerville
 ----------------
-- **[Baskerville 1](wobtrix.github.io/wobtrix/john_baskerville/john_baskerville.html)**   
+- **[Baskerville 1](https://wobtrix.github.io/john_baskerville/john_baskerville_version1.html)**   
     
 - **[Baskerville 2](https://github.com/Wobtrix/)**
 
